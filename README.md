@@ -1,0 +1,2 @@
+# bitcoinjujuy
+Mineria Argentina
